@@ -4,9 +4,8 @@ title: O nás
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+### Informace o našem postupu
 
 #### Cílová skupina
  Cílovou skupinou budou lidi, kteří se o seriál zajímají, nebo se na něj chystají podívat - motivace
@@ -44,7 +43,3 @@ fotky, životopisy, novinky, popisy, obsah dílů, obsah série, články, odkaz
 
 #### Strategie zveřejňování
 Různé informace, které jsme zmínily v obsahu a způsobem logickým - začneme od první sezony, zmíníme nejhlavnější postavy, které nás budou provázet všemi sériemi a tak dále.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
