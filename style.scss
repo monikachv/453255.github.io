@@ -68,7 +68,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: #000000;
 }
 
 p {
@@ -76,11 +76,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #000000;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #000000;
   }
 }
 
@@ -209,7 +209,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #000000;
   font-size: 16px;
 
   @include mobile {
@@ -239,7 +239,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: #000000;
     }
   }
 }
