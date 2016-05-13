@@ -25,7 +25,7 @@ body
     background-repeat: no-repeat;
     background-color: $white;
     font: 18px/1.4 $helvetica;
-    color: #00ff00;
+    color: #ffd700;
 }
 
 
@@ -39,7 +39,7 @@ body
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #00ff00;
+  color: #ffd700;
   font-weight: bold;
 
   line-height: 1.7;
@@ -68,7 +68,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #00ff00;
+  color: #ffd700;
 }
 
 p {
@@ -76,11 +76,11 @@ p {
 }
 
 a {
-  color: #00ff00;
+  color: #ffd700;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #00ff00;
+    color: #ffd700;
   }
 }
 
@@ -124,7 +124,7 @@ img {
 
 .date {
   font-style: italic;
-  color: #00ff00;
+  color: #ffd700;
 }
 
 // Specify the color of the selection
@@ -199,7 +199,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: #00ff00;
+  color: #ffd700;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -209,7 +209,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #00ff00;
+  color: #ffd700;
   font-size: 16px;
 
   @include mobile {
@@ -232,14 +232,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #00ff00;
+    color: #ffd700;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: #00ff00;
+      color: #ffd700;
     }
   }
 }
@@ -263,7 +263,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: #00ff00;
+    color: #ffd700;
     font-size: 22px;
     font-style: italic;
   }
