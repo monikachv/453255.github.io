@@ -20,12 +20,12 @@ html {
 body 
 
  {
-    background-image: url("453255.github.io/images/hrad2.jpg");
+    background-image: url("http://1.bp.blogspot.com/-oioLeEKCjtY/UNLkSIeHUXI/AAAAAAAAAdk/aNFmyS335qc/s640/OUaT.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-color: $white;
     font: 18px/1.4 $helvetica;
-    color: #00FFFF;
+    color: #000000;
 }
 
 
@@ -39,7 +39,7 @@ body
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #00FFFF;
+  color: #000000;
   font-weight: bold;
 
   line-height: 1.7;
@@ -68,7 +68,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #00FFFF;
+  color: #000000;
 }
 
 p {
@@ -76,11 +76,11 @@ p {
 }
 
 a {
-  color: #00FFFF;
+  color: #000000;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #00FFFF;
+    color: #000000;
   }
 }
 
@@ -124,7 +124,7 @@ img {
 
 .date {
   font-style: italic;
-  color: #00FFFF;
+  color: #000000;
 }
 
 // Specify the color of the selection
@@ -199,7 +199,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: #00FFFF;
+  color: #000000;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -209,7 +209,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #00FFFF;
+  color: #000000;
   font-size: 16px;
 
   @include mobile {
@@ -232,14 +232,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #00FFFF;
+    color: #000000;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: #00FFFF;
+      color: #000000;
     }
   }
 }
@@ -263,7 +263,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: #00FFFF;
+    color: #000000;
     font-size: 22px;
     font-style: italic;
   }
