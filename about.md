@@ -1,9 +1,3 @@
----
-layout: page
-title: O nás
-permalink: /about/
----
-
 
 ### Informace o našem postupu
 
