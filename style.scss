@@ -233,14 +233,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #ffffff;
+    color: #000000;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: #ffffff;
+      color: #000000;
     }
   }
 }
@@ -264,7 +264,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: #ffffff;
+    color: #000000;
     font-size: 22px;
     font-style: italic;
   }
