@@ -18,11 +18,11 @@ Dále zde budou názory, ať už na jednotlivé díly, série či celkovou strá
  Bylo, nebylo...
  
 ####  5 webových zdrojů
-http://www.imdb.com/title/tt1843230/ <br>
-http://www.edna.cz/once-upon-a-time/ <br>
-http://abc.go.com/shows/once-upon-a-time <br>
-https://en.wikipedia.org/wiki/Once_Upon_a_Time_(TV_series) <br>
-http://www.csfd.cz/film/297535-bylo-nebylo/prehled/ <br>
+<a href="http://www.imdb.com/title/tt1843230/">IMDB</a> <br>
+<a href="http://www.edna.cz/once-upon-a-time/">Edna</a> <br>
+<a href="http://abc.go.com/shows/once-upon-a-time">ABC.GO</a> <br>
+<a href="https://en.wikipedia.org/wiki/Once_Upon_a_Time_(TV_series)">Wikipedie</a> <br>
+<a href="http://www.csfd.cz/film/297535-bylo-nebylo/prehled/">CSFD</a> <br>
 
 #### 5 ne-webových zdrojů
 Keďže je to o relatívne novom seriáli, ťažko by sa našli knižné zdroje.
@@ -30,12 +30,12 @@ Keďže je to o relatívne novom seriáli, ťažko by sa našli knižné zdroje.
 
 #### Dostupná multimédia
   anglická ukázka: <a href="https://www.youtube.com/watch?v=7O20kV7KwJQ">English</a> <br>
-  slovenská ukázka: https://www.youtube.com/watch?v=up-SCT1Dw3w <br>
-  česká ukázka: https://www.youtube.com/watch?v=QBHzw_7Y2Hk <br>
+  slovenská ukázka: <a href="https://www.youtube.com/watch?v=up-SCT1Dw3w">Slovensky</a> <br>
+  česká ukázka: <a href="https://www.youtube.com/watch?v=QBHzw_7Y2Hk">Česky</a> <br>
   obrázky - bohatě stačí zadat dotaz do Google Obrázky <br>
 
 #### Vzhled stránky
-Odkazy na webové stránky se stejným tématem, http://file2.answcdn.com/answ-cld/image/upload/w_760,c_fill,g_faces:center,fl_lossy,q_60/v1401150667/yhstuiockzuf0eccljm5.jpg, http://img0.gtsstatic.com/wallpapers/6bf8fcb49d02cba959ab835b3cb64d4b_large.jpeg
+Odkazy na webové stránky se stejným tématem,<br> <a href="http://file2.answcdn.com/answ-cld/image/upload/w_760,c_fill,g_faces:center,fl_lossy,q_60/v1401150667/yhstuiockzuf0eccljm5.jpg"></a>, <a href="http://img0.gtsstatic.com/wallpapers/6bf8fcb49d02cba959ab835b3cb64d4b_large.jpeg"></a>
 
 #### Obsah webu
 fotky, životopisy, novinky, popisy, obsah dílů, obsah série, články, odkazy na online epizody, odkazy na titulky, recenze
