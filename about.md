@@ -5,39 +5,39 @@ permalink: /about/
 ---
 ### <i>Informace o našem postupu</i>
 
-#### <p>Cílová skupina<br>
- Cílovou skupinou budou lidi, kteří se o seriál zajímají, nebo se na něj chystají podívat - motivace.</p>
+#### Cílová skupina
+ Cílovou skupinou budou lidi, kteří se o seriál zajímají, nebo se na něj chystají podívat - motivace.
  
-#### <p>Cíl webu
+#### Cíl webu
 Cílem webu bude poskytnout veškeré dostupné informace o seriálu Once upon a time čili Bylo, nebylo.<br>
 Najdou se zde fotky, články, životopisy herců a i jejich českých dabérů - jen bude nějakou dobu trvat, než se to plně zprovozní. <br>
-Dále zde budou názory, ať už na jednotlivé díly, série či celkovou stránku věci. A možná i další nápady na nové série, se kterými by se mohlo pracovat.</p>
+Dále zde budou názory, ať už na jednotlivé díly, série či celkovou stránku věci. A možná i další nápady na nové série, se kterými by se mohlo pracovat.
 
-#### <p>Název webu
- Bylo, nebylo...</p>
+#### Název webu
+ Bylo, nebylo...
  
-####  <p>5 webových zdrojů
+####  5 webových zdrojů
 <u><a href="http://www.imdb.com/title/tt1843230/">IMDB</a></u> <br>
 <u><a href="http://www.edna.cz/once-upon-a-time/">Edna</a></u> <br>
 <u><a href="http://abc.go.com/shows/once-upon-a-time">ABC.GO</a></u> <br>
 <u><a href="https://en.wikipedia.org/wiki/Once_Upon_a_Time_(TV_series)">Wikipedie</a></u> <br>
-<u><a href="http://www.csfd.cz/film/297535-bylo-nebylo/prehled/">CSFD</a></u> <br> </p>
+<u><a href="http://www.csfd.cz/film/297535-bylo-nebylo/prehled/">CSFD</a></u> <br>
 
-#### <p>5 ne-webových zdrojů
-Keďže je to o relatívne novom seriáli, ťažko by sa našli knižné zdroje.</p>
+#### 5 ne-webových zdrojů
+Keďže je to o relatívne novom seriáli, ťažko by sa našli knižné zdroje.
 
 
-#### <p>Dostupná multimédia
+#### Dostupná multimédia
   anglická ukázka: <u><a href="https://www.youtube.com/watch?v=7O20kV7KwJQ">English</a></u> <br>
   slovenská ukázka: <u><a href="https://www.youtube.com/watch?v=up-SCT1Dw3w">Slovensky</a></u> <br>
   česká ukázka: <u><a href="https://www.youtube.com/watch?v=QBHzw_7Y2Hk">Česky</a></u> <br>
-  obrázky - bohatě stačí zadat dotaz do Google Obrázky <br> </p>
+  obrázky - bohatě stačí zadat dotaz do Google Obrázky <br>
 
-#### <p>Vzhled stránky
-Odkazy na webové stránky se stejným tématem,<br> <u><a href="http://file2.answcdn.com/answ-cld/image/upload/w_760,c_fill,g_faces:center,fl_lossy,q_60/v1401150667/yhstuiockzuf0eccljm5.jpg">Obrázek</a></u>, <u><a href="http://img0.gtsstatic.com/wallpapers/6bf8fcb49d02cba959ab835b3cb64d4b_large.jpeg">Pozadí</a></u></p>
+#### Vzhled stránky
+Odkazy na webové stránky se stejným tématem,<br> <u><a href="http://file2.answcdn.com/answ-cld/image/upload/w_760,c_fill,g_faces:center,fl_lossy,q_60/v1401150667/yhstuiockzuf0eccljm5.jpg">Obrázek</a></u>, <u><a href="http://img0.gtsstatic.com/wallpapers/6bf8fcb49d02cba959ab835b3cb64d4b_large.jpeg">Pozadí</a></u>
 
-#### <p>Obsah webu
-fotky, životopisy, novinky, popisy, obsah dílů, obsah série, články, odkazy na online epizody, odkazy na titulky, recenze</p>
+#### Obsah webu
+fotky, životopisy, novinky, popisy, obsah dílů, obsah série, články, odkazy na online epizody, odkazy na titulky, recenze
 
-#### <p>Strategie zveřejňování
-Různé informace, které jsme zmínily v obsahu a způsobem logickým - začneme od první sezony, zmíníme nejhlavnější postavy, které nás budou provázet všemi sériemi a tak dále.</p>
+#### Strategie zveřejňování
+Různé informace, které jsme zmínily v obsahu a způsobem logickým - začneme od první sezony, zmíníme nejhlavnější postavy, které nás budou provázet všemi sériemi a tak dále.
