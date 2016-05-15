@@ -4,7 +4,7 @@ title: <u>O nás</u>
 permalink: /about/
 ---
 
-### Informace o našem postupu
+### <i>Informace o našem postupu</i>
 
 #### Cílová skupina<br>
  Cílovou skupinou budou lidi, kteří se o seriál zajímají, nebo se na něj chystají podívat - motivace.
@@ -35,7 +35,7 @@ Keďže je to o relatívne novom seriáli, ťažko by sa našli knižné zdroje.
   obrázky - bohatě stačí zadat dotaz do Google Obrázky <br>
 
 #### Vzhled stránky
-Odkazy na webové stránky se stejným tématem,<br> <a href="http://file2.answcdn.com/answ-cld/image/upload/w_760,c_fill,g_faces:center,fl_lossy,q_60/v1401150667/yhstuiockzuf0eccljm5.jpg"></a>, <a href="http://img0.gtsstatic.com/wallpapers/6bf8fcb49d02cba959ab835b3cb64d4b_large.jpeg"></a>
+Odkazy na webové stránky se stejným tématem,<br> <a href="http://file2.answcdn.com/answ-cld/image/upload/w_760,c_fill,g_faces:center,fl_lossy,q_60/v1401150667/yhstuiockzuf0eccljm5.jpg">Obrázek</a>, <a href="http://img0.gtsstatic.com/wallpapers/6bf8fcb49d02cba959ab835b3cb64d4b_large.jpeg">Pozadí</a>
 
 #### Obsah webu
 fotky, životopisy, novinky, popisy, obsah dílů, obsah série, články, odkazy na online epizody, odkazy na titulky, recenze
