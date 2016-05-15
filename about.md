@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ### <i>Informace o našem postupu</i>
 
-#### <p>Cílová skupina
+<p>#### Cílová skupina
  Cílovou skupinou budou lidi, kteří se o seriál zajímají, nebo se na něj chystají podívat - motivace.</p>
  
 #### <p>Cíl webu
