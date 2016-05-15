@@ -17,24 +17,24 @@ Dále zde budou názory, ať už na jednotlivé díly, série či celkovou strá
  Bylo, nebylo...
  
 ####  5 webových zdrojů
-<a href="http://www.imdb.com/title/tt1843230/">IMDB</a> <br>
-<a href="http://www.edna.cz/once-upon-a-time/">Edna</a> <br>
-<a href="http://abc.go.com/shows/once-upon-a-time">ABC.GO</a> <br>
-<a href="https://en.wikipedia.org/wiki/Once_Upon_a_Time_(TV_series)">Wikipedie</a> <br>
-<a href="http://www.csfd.cz/film/297535-bylo-nebylo/prehled/">CSFD</a> <br>
+<u><a href="http://www.imdb.com/title/tt1843230/">IMDB</a></u> <br>
+<u><a href="http://www.edna.cz/once-upon-a-time/">Edna</a></u> <br>
+<u><a href="http://abc.go.com/shows/once-upon-a-time">ABC.GO</a></u> <br>
+<u><a href="https://en.wikipedia.org/wiki/Once_Upon_a_Time_(TV_series)">Wikipedie</a></u> <br>
+<u><a href="http://www.csfd.cz/film/297535-bylo-nebylo/prehled/">CSFD</a></u> <br>
 
 #### 5 ne-webových zdrojů
 Keďže je to o relatívne novom seriáli, ťažko by sa našli knižné zdroje.
 
 
 #### Dostupná multimédia
-  anglická ukázka: <a href="https://www.youtube.com/watch?v=7O20kV7KwJQ">English</a> <br>
-  slovenská ukázka: <a href="https://www.youtube.com/watch?v=up-SCT1Dw3w">Slovensky</a> <br>
-  česká ukázka: <a href="https://www.youtube.com/watch?v=QBHzw_7Y2Hk">Česky</a> <br>
+  anglická ukázka: <u><a href="https://www.youtube.com/watch?v=7O20kV7KwJQ">English</a></u> <br>
+  slovenská ukázka: <u><a href="https://www.youtube.com/watch?v=up-SCT1Dw3w">Slovensky</a></u> <br>
+  česká ukázka: <u><a href="https://www.youtube.com/watch?v=QBHzw_7Y2Hk">Česky</a></u> <br>
   obrázky - bohatě stačí zadat dotaz do Google Obrázky <br>
 
 #### Vzhled stránky
-Odkazy na webové stránky se stejným tématem,<br> <a href="http://file2.answcdn.com/answ-cld/image/upload/w_760,c_fill,g_faces:center,fl_lossy,q_60/v1401150667/yhstuiockzuf0eccljm5.jpg">Obrázek</a>, <a href="http://img0.gtsstatic.com/wallpapers/6bf8fcb49d02cba959ab835b3cb64d4b_large.jpeg">Pozadí</a>
+Odkazy na webové stránky se stejným tématem,<br> <u><a href="http://file2.answcdn.com/answ-cld/image/upload/w_760,c_fill,g_faces:center,fl_lossy,q_60/v1401150667/yhstuiockzuf0eccljm5.jpg">Obrázek</a></u>, <u><a href="http://img0.gtsstatic.com/wallpapers/6bf8fcb49d02cba959ab835b3cb64d4b_large.jpeg">Pozadí</a></u>
 
 #### Obsah webu
 fotky, životopisy, novinky, popisy, obsah dílů, obsah série, články, odkazy na online epizody, odkazy na titulky, recenze
