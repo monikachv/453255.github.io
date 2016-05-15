@@ -3,18 +3,17 @@ layout: page
 title: <u>O nás</u>
 permalink: /about/
 ---
-
 ### <i>Informace o našem postupu</i>
 
-#### Cílová skupina<br>
+#### Cílová skupina
  Cílovou skupinou budou lidi, kteří se o seriál zajímají, nebo se na něj chystají podívat - motivace.
  
-#### Cíl webu <br>
+#### Cíl webu
 Cílem webu bude poskytnout veškeré dostupné informace o seriálu Once upon a time čili Bylo, nebylo.<br>
 Najdou se zde fotky, články, životopisy herců a i jejich českých dabérů - jen bude nějakou dobu trvat, než se to plně zprovozní. <br>
 Dále zde budou názory, ať už na jednotlivé díly, série či celkovou stránku věci. A možná i další nápady na nové série, se kterými by se mohlo pracovat.
 
-#### Název webu<br>
+#### Název webu
  Bylo, nebylo...
  
 ####  5 webových zdrojů
