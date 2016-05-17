@@ -39,5 +39,8 @@ Odkazy na webové stránky se stejným tématem,<br> <u><a href="http://file2.an
 #### Obsah webu
 fotky, životopisy, novinky, popisy, obsah dílů, obsah série, články, odkazy na online epizody, odkazy na titulky, recenze
 
+#### Open data
+ Jsou to informace a data zveřejněná na internetu, snadno dostupná, strojově čitelná, zpřístupněná za jasně definovaných podmínek užití dat s minimem omezení a dostupná uživatelům bez vynaložení nákladů, nebo jen s nepatrným množstvím.
+
 #### Strategie zveřejňování
 Různé informace, které jsme zmínily v obsahu a způsobem logickým - začneme od první sezony, zmíníme nejhlavnější postavy, které nás budou provázet všemi sériemi a tak dále.
