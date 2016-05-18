@@ -18,7 +18,43 @@ Dále zde budou názory, ať už na jednotlivé díly, série či celkovou strá
  
 ####  5 webových zdrojů
 <u><a href="http://www.imdb.com/title/tt1843230/">IMDB</a></u> <br>
-<u><a href="http://www.edna.cz/once-upon-a-time/">Edna</a></u> <br>
+iframe[Attributes Style] {
+    width: 560px;
+    height: 315px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+}
+user agent stylesheet
+iframe {
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+}iframe[Attributes Style] {
+    width: 560px;
+    height: 315px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+}
+user agent stylesheet
+iframe {
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+}
 <u><a href="http://abc.go.com/shows/once-upon-a-time">ABC.GO</a></u> <br>
 <u><a href="https://en.wikipedia.org/wiki/Once_Upon_a_Time_(TV_series)">Wikipedie</a></u> <br>
 <u><a href="http://www.csfd.cz/film/297535-bylo-nebylo/prehled/">CSFD</a></u> <br>
