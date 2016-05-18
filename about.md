@@ -28,9 +28,9 @@ Keďže je to o relatívne novom seriáli, ťažko by sa našli knižné zdroje.
 
 
 #### Dostupná multimédia
-  anglická ukázka: <u><a href="https://www.youtube.com/watch?v=7O20kV7KwJQ">English</a></u> <br>
-  slovenská ukázka: <u><a href="https://www.youtube.com/watch?v=up-SCT1Dw3w">Slovensky</a></u> <br>
-  česká ukázka: <u><a href="https://www.youtube.com/watch?v=QBHzw_7Y2Hk">Česky</a></u> <br>
+  anglická ukázka: <u><a href="https://www.youtube.com/watch?v=7O20kV7KwJQ">Once upon a time</a></u> <br>
+  slovenská ukázka: <u><a href="https://www.youtube.com/watch?v=up-SCT1Dw3w">Kde bolo, tam bolo</a></u> <br>
+  česká ukázka: <u><a href="https://www.youtube.com/watch?v=QBHzw_7Y2Hk">Bylo, nebylo</a></u> <br>
   obrázky - bohatě stačí zadat dotaz do Google Obrázky <br>
 
 #### Vzhled stránky
