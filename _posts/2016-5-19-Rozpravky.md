@@ -47,5 +47,8 @@ Aj keď toto nie je rozprávka, príbeh prvej polovice 5. série sa odohráva v 
 
 Toto je len výber niektorých, asi tých najhlavnejších rozprávok, ale v seriáli sa nachádza aj veľa ďalších.<br>
 Medzi tieto ďalšie rozprávky a príbehy, z ktorých sa v seriáli nachádzajú postavy sú *Malá morská víla*, *Robin Hood*, *Pinocchio*, *Jiminy Cricket*, *Mulan*, *Šípková Ruženka*, *101 Dalmatíncov*, *Maleficent*, *Herkules*, *Brave*, *Alica v krajine zázrakov* a donkonca aj *Frankenstein* alebo *Dr. Jekyll a mr. Hyde* a niekoľko iných.<br>
-Pokiaľ vás to zaujíma, našla som aj toto video:<br>
-<a href="https://www.youtube.com/watch?v=tKfjtBrF3KQ">Once Upon A Time - Characters Disney Counterparts - YouTube</a>
+
+*Niečo ďalšie týkajúce sa rovnakej tematiky*:<br>
+<a href="https://www.youtube.com/watch?v=tKfjtBrF3KQ">Once Upon A Time - Characters Disney Counterparts - YouTube</a><br>
+<a href="http://www.wetpaint.com/once-upon-a-time-all-the-fairy-tales-legends-folk-tales-that-are-in-the-show-729668/">Once Upon a Time: All the Fairy Tales, Legends & Folk Tales That Are In the Show</a><br>
+
